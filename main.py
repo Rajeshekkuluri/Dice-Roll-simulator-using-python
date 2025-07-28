@@ -3,7 +3,7 @@ import random
 
 # range of the values of a dice
 min_val = 1
-max_val = 6
+max_val = 7
 
 # to loop the rolling through user input
 roll_again = "yes"
